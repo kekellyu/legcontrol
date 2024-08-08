@@ -1,0 +1,9 @@
+Sat Aug  3 14:36:13 2024
+ERROR: mjv_updateSceneState: m->nu changed
+
+Sat Aug  3 14:39:53 2024
+ERROR: mjv_updateSceneState: m->nu changed
+
+Sun Aug  4 19:56:37 2024
+ERROR: mjv_updateSceneState: m->nu changed
+
